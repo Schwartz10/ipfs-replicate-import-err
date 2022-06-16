@@ -1,3 +1,3 @@
-const { create } = require("ipfs");
+import { create } from 'ipfs'
 
 console.log("hi");
